@@ -15,13 +15,15 @@
  - ✔ MongoDB
  - ✔ ReactJs
  - ✔ NextJs
+ - ✔ VueJS
  - ✔ Tailwind CSS
  - ✔ Bootstrap CSS
  - ✔ NodeJs
  - ✔ ExpressJs
  - ✔ ReduxJS
- - ✔ Figma
+ - ✔ Figma, AdobeXD
  - ✔ WordPress
- - ✔ HTML
- - ✔ CSS
+ - ✔ HTML5
+ - ✔ CSS3, SCSS
  - ✔ Javascript
+ - ✔ Material UI, Chakra UI
