@@ -1,8 +1,9 @@
 ### Hey, Awesome! My name is Solomon and I am a Developer 👋
 
-- 👀 I’m interested in Full-stack Web Development.
-- 🌱 I’m currently learning React Native and Docker.
-- 💞️ I’m freelancing as a Senior Web Developer on Upwork.
+- 👀 I’m a Full-stack Web Development.
+- 👀 I have Strong Passion for Front-End Development
+- 🌱 I’m currently learning React Native and Kotlin.
+- 💞️ I’m freelancing as a Web Developer on Upwork.
 - ⚡ Fun fact: I love staring at the mirror.
 - 📫 Reach me at solomondev002@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/dev-solomon-miller/
