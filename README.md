@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/solomondev01/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://devsolomon.netlify.app/)**
 
 - 📫 How to reach me **Solomondev002@gmail.com**
 
