@@ -9,7 +9,7 @@
 ### Technologies I use ⚡ ###
 
  - ✔ HTML5, CSS3, SCSS, JavaScript
- - ✔ ReactJS, NextJS, ReduxJS
+ - ✔ ReactJS, TypeScript, NextJS, ReduxJS
  - ✔ VueJS, AngularJS, JQueryJS
  - ✔ TailWindCSS, BootStrapCSS
  - ✔ Git, GitLab, BitBucket
